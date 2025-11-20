@@ -1,36 +1,38 @@
-# Successfactors Anschluss
+# Successfactors Connector
 
-SuccessFactors Ist eine Wolke-basisbezogener Mensch Großes Management (HCM)
-Software Lösung angeboten bei LEBENSKRAFT. Es hilft Gesellschaften fertigbringen
-ihre Angestellte Arbeitsgänge, #einschließen Talent Management, Angestellte
-Entwicklung, Leistung Evaluation, onboarding, Abgeltung Management, und
-Nachfolge Planung. SuccessFactors Versieht eine umfassende STUNDE Bahnsteig
-fokussiert auf verbessern Angestellte Leistung und Beibehaltung und ist gekannt
-für sein scalable, flexibel, und #global deployable STUNDE Software Lösung.
+SuccessFactors ist eine cloudbasierte Softwarelösung für das Personalmanagement
+(Human Capital Management, HCM) von SAP. Sie unterstützt Unternehmen bei der
+Verwaltung ihrer Mitarbeiterprozesse, darunter Talentmanagement,
+Mitarbeiterentwicklung, Leistungsbewertung, Onboarding, Vergütungsmanagement und
+Nachfolgeplanung. SuccessFactors bietet eine umfassende HR-Plattform, die sich
+auf die Verbesserung der Mitarbeiterleistung und -bindung konzentriert und für
+ihre skalierbare, flexible und weltweit einsetzbare HR-Softwarelösung bekannt
+ist.
 
-Dieser Anschluss vereinfacht die Integration von Successfactors hinein eure
-Arbeitsgänge mal:
+Dieser Konnektor vereinfacht die Integration von Successfactors in Ihre Prozesse
+durch:
 
-- #Aushebeln REST Web Bedienung Technologien,
-- Versehend Zugang zu sampeln Successfactors Funktionalitäten,
-- Und minimierend die Integration Anstrengung durch eine Demo Ausführung mit
-  Beispiel Anrufe.
+- Unter Verwendung von REST-Webdiensttechnologien
+- Sie bieten Zugriff auf Beispielfunktionen von Successfactors.
+- und Minimierung des Integrationsaufwands durch eine Demo-Implementierung mit
+  Beispielaufrufen.
 
 ## Demo
 
-1. Anruf Klausur Arbeitsgang. Es kehrt zurück Klausur #Daten in #loggen zu du.
+1. Rufen Sie den Testprozess auf. Er gibt Ihnen die Testdaten im Protokoll
+   zurück.
 
 ## Einrichtung
 
-Vor irgendwelche Interaktionen zwischen den #Axon Efeu Motor und Successfactors
-Bedienungen können sein gerannt, sie müssen sein introducted zu #jede #andere.
-Dies kann sein getan folgendermaßen:
+Bevor Interaktionen zwischen der Axon Ivy Engine und den Successfactors-Diensten
+ausgeführt werden können, müssen diese einander vorgestellt werden. Dies kann
+wie folgt erfolgen:
 
-1. Bekomm ein Successfactors Konto `Gastgeber-Namen`, `Nutzer-Name` und
-   `Passwort` zu benutzen.
+1. Erstellen Sie ein Successfactors-Konto unter `mit dem Hostnamen`, dem
+   Benutzernamen `` und dem Passwort `` , um es zu verwenden.
 
-1. Überbrückung die Variablen für `Gastgeber-Name`, `Nutzer-Name` und `Passwort`
-   in das Demo Projekt gezeigt da in dem Beispiel unten.
+1. Überschreiben Sie die Variablen für `host-name`, `user-name` und `password`
+   im Demo-Projekt wie im folgenden Beispiel gezeigt.
 
 ```
 Variables:
