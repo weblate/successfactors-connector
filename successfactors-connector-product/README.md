@@ -14,7 +14,7 @@ This connector simplifies the integration of Successfactors into your processes 
 
 ## Setup
 
-Before any interactions between the Axon Ivy Engine and Successfactors services can be run, they have to be introducted to each other. This can be done as follows:
+Before any interactions between the Axon Ivy Engine and Successfactors services can be run, they have to be introduced to each other. This can be done as follows:
 
 1. Get a Successfactors account `host-name`, `user-name` and `password` to use.
 
