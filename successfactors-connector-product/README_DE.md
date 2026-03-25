@@ -24,9 +24,9 @@ durch:
 
 ## Setup
 
-Bevor Interaktionen zwischen der Axon Ivy Engine und den Successfactors-Diensten
-ausgeführt werden können, müssen diese einander vorgestellt werden. Dies kann
-wie folgt erfolgen:
+Before any interactions between the Axon Ivy Engine and Successfactors services
+can be run, they have to be introduced to each other. This can be done as
+follows:
 
 1. Erstellen Sie ein Successfactors-Konto unter `mit dem Hostnamen`, dem
    Benutzernamen `` und dem Passwort `` , um es zu verwenden.
